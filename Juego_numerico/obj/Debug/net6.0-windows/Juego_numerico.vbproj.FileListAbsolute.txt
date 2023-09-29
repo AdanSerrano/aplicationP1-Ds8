@@ -1,0 +1,33 @@
+C:\Users\anedel\source\repos\Juego_numerico\Juego_numerico\bin\Debug\net6.0-windows\Juego_numerico.exe
+C:\Users\anedel\source\repos\Juego_numerico\Juego_numerico\bin\Debug\net6.0-windows\Juego_numerico.deps.json
+C:\Users\anedel\source\repos\Juego_numerico\Juego_numerico\bin\Debug\net6.0-windows\Juego_numerico.runtimeconfig.json
+C:\Users\anedel\source\repos\Juego_numerico\Juego_numerico\bin\Debug\net6.0-windows\Juego_numerico.dll
+C:\Users\anedel\source\repos\Juego_numerico\Juego_numerico\bin\Debug\net6.0-windows\Juego_numerico.pdb
+C:\Users\anedel\source\repos\Juego_numerico\Juego_numerico\obj\Debug\net6.0-windows\Juego_numerico.vbproj.AssemblyReference.cache
+C:\Users\anedel\source\repos\Juego_numerico\Juego_numerico\obj\Debug\net6.0-windows\Juego_numerico.Form1.resources
+C:\Users\anedel\source\repos\Juego_numerico\Juego_numerico\obj\Debug\net6.0-windows\Juego_numerico.vbproj.GenerateResource.cache
+C:\Users\anedel\source\repos\Juego_numerico\Juego_numerico\obj\Debug\net6.0-windows\Juego_numerico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anedel\source\repos\Juego_numerico\Juego_numerico\obj\Debug\net6.0-windows\Juego_numerico.AssemblyInfoInputs.cache
+C:\Users\anedel\source\repos\Juego_numerico\Juego_numerico\obj\Debug\net6.0-windows\Juego_numerico.AssemblyInfo.vb
+C:\Users\anedel\source\repos\Juego_numerico\Juego_numerico\obj\Debug\net6.0-windows\Juego_numerico.vbproj.CoreCompileInputs.cache
+C:\Users\anedel\source\repos\Juego_numerico\Juego_numerico\obj\Debug\net6.0-windows\Juego_numerico.dll
+C:\Users\anedel\source\repos\Juego_numerico\Juego_numerico\obj\Debug\net6.0-windows\refint\Juego_numerico.dll
+C:\Users\anedel\source\repos\Juego_numerico\Juego_numerico\obj\Debug\net6.0-windows\Juego_numerico.pdb
+C:\Users\anedel\source\repos\Juego_numerico\Juego_numerico\obj\Debug\net6.0-windows\Juego_numerico.genruntimeconfig.cache
+C:\Users\anedel\source\repos\Juego_numerico\Juego_numerico\obj\Debug\net6.0-windows\ref\Juego_numerico.dll
+C:\Users\adaser\Downloads\Juego_numerico (2)\Juego_numerico\Juego_numerico\obj\Debug\net6.0-windows\Juego_numerico.dll
+C:\Users\adaser\Downloads\Juego_numerico (2)\Juego_numerico\Juego_numerico\obj\Debug\net6.0-windows\refint\Juego_numerico.dll
+C:\Users\adaser\Downloads\Juego_numerico (2)\Juego_numerico\Juego_numerico\obj\Debug\net6.0-windows\Juego_numerico.pdb
+C:\Users\adaser\Downloads\Juego_numerico (2)\Juego_numerico\Juego_numerico\bin\Debug\net6.0-windows\Juego_numerico.exe
+C:\Users\adaser\Downloads\Juego_numerico (2)\Juego_numerico\Juego_numerico\bin\Debug\net6.0-windows\Juego_numerico.deps.json
+C:\Users\adaser\Downloads\Juego_numerico (2)\Juego_numerico\Juego_numerico\bin\Debug\net6.0-windows\Juego_numerico.runtimeconfig.json
+C:\Users\adaser\Downloads\Juego_numerico (2)\Juego_numerico\Juego_numerico\bin\Debug\net6.0-windows\Juego_numerico.dll
+C:\Users\adaser\Downloads\Juego_numerico (2)\Juego_numerico\Juego_numerico\bin\Debug\net6.0-windows\Juego_numerico.pdb
+C:\Users\adaser\Downloads\Juego_numerico (2)\Juego_numerico\Juego_numerico\obj\Debug\net6.0-windows\Juego_numerico.Form1.resources
+C:\Users\adaser\Downloads\Juego_numerico (2)\Juego_numerico\Juego_numerico\obj\Debug\net6.0-windows\Juego_numerico.vbproj.GenerateResource.cache
+C:\Users\adaser\Downloads\Juego_numerico (2)\Juego_numerico\Juego_numerico\obj\Debug\net6.0-windows\Juego_numerico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adaser\Downloads\Juego_numerico (2)\Juego_numerico\Juego_numerico\obj\Debug\net6.0-windows\Juego_numerico.AssemblyInfoInputs.cache
+C:\Users\adaser\Downloads\Juego_numerico (2)\Juego_numerico\Juego_numerico\obj\Debug\net6.0-windows\Juego_numerico.AssemblyInfo.vb
+C:\Users\adaser\Downloads\Juego_numerico (2)\Juego_numerico\Juego_numerico\obj\Debug\net6.0-windows\Juego_numerico.vbproj.CoreCompileInputs.cache
+C:\Users\adaser\Downloads\Juego_numerico (2)\Juego_numerico\Juego_numerico\obj\Debug\net6.0-windows\Juego_numerico.genruntimeconfig.cache
+C:\Users\adaser\Downloads\Juego_numerico (2)\Juego_numerico\Juego_numerico\obj\Debug\net6.0-windows\ref\Juego_numerico.dll
